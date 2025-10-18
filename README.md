@@ -2,4 +2,12 @@
 ---
 Buenas! Me llamo Manuel Calixto Piñar, soy un estudiante de Desarrollo de Aplicaciones Web. 
 ---
-## Proyectos
+## Lenguajes de programación
+- Java
+- HTML5
+- CSS3
+- MySQL
+- JavaScript
+- PHP
+---
+## Frameworks
