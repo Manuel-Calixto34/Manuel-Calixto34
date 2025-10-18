@@ -1,6 +1,7 @@
-# Bienvenido a mi GitHub
+# Buenas! Me llamo Manuel
 ---
-Buenas! Me llamo Manuel Calixto Piñar, soy un estudiante de Desarrollo de Aplicaciones Web. 
+## Sobre mí
+Soy un estudiante de 2º Desarrollo de Aplicaciones Web. Con muchas ganas de trabajar y de aprender constantemente cosas nuevas sobre el mundo de la programación. 
 ---
 ## Lenguajes de programación
 - Java
@@ -11,3 +12,6 @@ Buenas! Me llamo Manuel Calixto Piñar, soy un estudiante de Desarrollo de Aplic
 - PHP
 ---
 ## Frameworks
+- React
+- SaSS
+- Bootstrap
