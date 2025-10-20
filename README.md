@@ -16,3 +16,6 @@
 - Bootstrap
 ---
 ## Contacta conmigo
+- Email: calixtopinar@gmail.com
+- Instagram: https://www.instagram.com/manolo_cmiygl/
+- Github: 
