@@ -15,6 +15,8 @@
 - SaSS
 - Bootstrap
 ---
+## Aparte de la programación...
+- Me encantan los videojuegos (Nier, Zelda, The last of us, Resident Evil, Undertale...)
 ## Contacta conmigo
 - Email: calixtopinar@gmail.com
 - Instagram: https://www.instagram.com/manolo_cmiygl/
