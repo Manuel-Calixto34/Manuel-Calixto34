@@ -1,6 +1,6 @@
 <img src="https://media1.tenor.com/m/pd5bzdP1y8wAAAAC/denji-chainsaw-man.gif" alt="gif" width="100%" height="300">
 
-# Buenas! Me llamo Manuel
+# ¡Buenas! Me llamo Manuel
 ---
 ## Sobre mí
 - Soy un estudiante de 2º Desarrollo de Aplicaciones Web. Con muchas ganas de trabajar y de aprender constantemente cosas nuevas sobre el mundo de la programación. 
