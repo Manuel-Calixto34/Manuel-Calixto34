@@ -23,5 +23,3 @@
 ---
 ## Contacta conmigo
 - Email: calixtopinar@gmail.com
-- Instagram: https://www.instagram.com/manolo_cmiygl/
-- Número de teléfono: 667693293
